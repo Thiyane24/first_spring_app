@@ -5,7 +5,7 @@ A simple, lightweight Spring Boot starter application built to demonstrate REST 
 
 ---
 
-## 🛠️Tech Stack & Requirements
+## Tech Stack & Requirements
 
 * **Java:** JDK 17+ (Optimized for Java 21 / 27)
 * **Framework:** Spring Boot 
@@ -32,7 +32,7 @@ src/
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 The application is configured to run on port **`8081`** by default (customized in `application.properties` or via VM options):
 
